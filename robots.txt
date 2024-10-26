@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqajiasu.github.io/sitemap_index.eqajiasu
